@@ -12,7 +12,7 @@ int n2 = 200;
 var n3 = n1 + n2;
 Console.WriteLine(n3.GetType());
 
-string nameLastName = "Taner Saydam";
+string nameLastName = "Merve Akça";
 
 name = "asdasd";
 

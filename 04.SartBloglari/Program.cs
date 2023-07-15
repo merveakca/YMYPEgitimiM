@@ -9,7 +9,7 @@ int b = 2;
 
 //syntax => bir kodun nasıl yazılması gerektiğidir
 //&& => ve operatörü
-//|| => veya operatörü. Dik çizgiler altgr+tire işareti ile yapılıyor
+//|| => veya operatörü. Dik çizgiler altgr + tire işareti ile yapılıyor
 //if (a < 3 && b == 1 || 3 == 3 || a >= 1 || a <= 2 || a != 1)
 //{ //scope
 //    Console.WriteLine("a değeri 3'den küçük bir değer!");
@@ -60,14 +60,14 @@ else
 
 }
 
-string name = "Taner";
+string name = "Merve";
 
 switch (name)
 {
-    case "Ahmet":
+    case "Mevlüt":
         //işlem
         break;
-    case "Seval":
+    case "Zeren":
         //işlem
         break;
     default:

@@ -29,12 +29,12 @@ x--;
 
 //+ operatörü string değerlerde birleştirme işlemi yapar;
 
-string name = "Taner" + " " + "Saydam"; //Taner Saydam
-string name2 = $"{name} 34 yaşında bir eğitmen"; // ==> Taner Saydam 34 yaşında bir eğitmen
+string name = "Merve" + " " + "Akça"; //Merve Akça
+string name2 = $"{name} 35 yaşında bir yazılımcı"; // ==> Merve Akça 35 yaşında bir yazılımcı
 //@ operatör  ters bölü işaretini kullanmamızı sağlıyor;
 string url = @"http:\"; //==> http:\ 
 
-var result = name + 2; //Rakam + string birleştirme işlemi yapar ==> Taner Saydam2
+var result = name + 2; //Rakam + string birleştirme işlemi yapar ==> Merve Akça2
 
 //% => mod operatörü sayının verilen sayıya tam bölünüp bölünmediğini kontrol eder 0 ya da küsürat dönüyor
 

@@ -6,19 +6,17 @@
         {
             Console.WriteLine("Hello, World!");
             List<string> names = new();
-            names.Add("Taner"); //0
-            names.Add("Tugay"); //1
-            names.Add("Tahir"); //2
-            names.Add("Toprak");
-            names.Add("Türkan");
-            names.Add("Seval");
+            names.Add("Merve"); //0
+            names.Add("Zeren"); //1
+            names.Add("Naz"); //2
+            names.Add("Akça");
+            names.Add("Mevlüt");
 
             //Console.WriteLine(names[0]);
             //Console.WriteLine(names[1]);
             //Console.WriteLine(names[2]);
             //Console.WriteLine(names[3]);
             //Console.WriteLine(names[4]);
-            //Console.WriteLine(names[5]);
 
             //for, foreach, while
 

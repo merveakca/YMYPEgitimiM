@@ -6,16 +6,16 @@
         {
             Console.WriteLine("Hello, World!");
 
-            string name = "Taner";
+            string name = "Merve";
             string name2 = name;
-            name2 = "Ahmet";
+            name2 = "Mevlüt";
 
             Console.WriteLine(name);
             Console.WriteLine(name2); //değer tip örneği
 
             User user = new();
             User user2 = user;
-            user2.Name = "Ahmet";
+            user2.Name = "Mevlüt";
 
             Console.WriteLine(user.Name);
         }
@@ -25,5 +25,5 @@
 
 class User
 {
-    public string Name = "Taner";
+    public string Name = "Merve";
 }

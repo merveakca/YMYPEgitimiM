@@ -5,30 +5,30 @@
 //string[] names = { "asdas", "asdasd" };
 //index numarası desem => 0'dan başlar
 //string[] names = new string[3];
-//names[0] = "Taner";
-//names[1] = "Taner";
-//names[2] = "Taner";
+//names[0] = "Merve";
+//names[1] = "Merve";
+//names[2] = "Merve";
 
 //List<string> names = new List<string>() { "sadasd", "asdasd" };
 
 List<string> names = new(); //örneğe dönüştürmek için new kelimesini kullanıyoruz. Örneğe dönüştürme işleminde yazılımda "instance" üretme deniyor
 
-names.Add("Taner"); //0
-names.Add("Taner"); //1
-names.Add("Taner"); //2
-names.Add("Taner"); //3
-names.Add("Taner"); //4
-names.Add("Taner"); //5
-names.Add("Taner"); //6
-names.Add("Taner"); //7
-names.Add("Taner"); //8
-names.Add("Taner"); //9
-names.Add("Taner"); //10
-names.Add("Taner"); //11
-names.Add("Taner"); //12
-names.Add("Taner"); //13
+names.Add("Merve"); //0
+names.Add("Merve"); //1
+names.Add("Merve"); //2
+names.Add("Merve"); //3
+names.Add("Merve"); //4
+names.Add("Merve"); //5
+names.Add("Merve"); //6
+names.Add("Merve"); //7
+names.Add("Merve"); //8
+names.Add("Merve"); //9
+names.Add("Merve"); //10
+names.Add("Merve"); //11
+names.Add("Merve"); //12
+names.Add("Merve"); //13
 
-names[12] = "Ahmet";
+names[12] = "Mevlüt";
 
 Console.WriteLine(names.GetType());
 
