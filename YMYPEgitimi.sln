@@ -5,6 +5,10 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Degiskenler", "01.Degiskenler\01.Degiskenler.csproj", "{79D63422-A796-4180-BA81-66651E3F95CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.DegerTiplerVeReferansTipler", "02.DegerTiplerVeReferansTipler\02.DegerTiplerVeReferansTipler.csproj", "{62AF16BC-B48D-4DDD-8CB8-82928863877A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Operatorler", "03.Operatorler\03.Operatorler.csproj", "{8CB42546-E892-42DE-BF17-F647B12393C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{79D63422-A796-4180-BA81-66651E3F95CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79D63422-A796-4180-BA81-66651E3F95CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79D63422-A796-4180-BA81-66651E3F95CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62AF16BC-B48D-4DDD-8CB8-82928863877A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62AF16BC-B48D-4DDD-8CB8-82928863877A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62AF16BC-B48D-4DDD-8CB8-82928863877A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62AF16BC-B48D-4DDD-8CB8-82928863877A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CB42546-E892-42DE-BF17-F647B12393C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CB42546-E892-42DE-BF17-F647B12393C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CB42546-E892-42DE-BF17-F647B12393C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CB42546-E892-42DE-BF17-F647B12393C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
