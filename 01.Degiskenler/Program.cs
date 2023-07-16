@@ -22,8 +22,4 @@ char karakter = 'A';
 string aciklama = "asdasdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd";
 
 Console.WriteLine(nameLastName);
-
-
-
-
 Console.ReadLine();
