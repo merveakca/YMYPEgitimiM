@@ -126,3 +126,5 @@ function setEducations(educations) {
 // function removeSkill(id){
 //     document.getElementById(id).remove();
 // }
+
+// PDF oluşturma işlemini başlatan işlev
